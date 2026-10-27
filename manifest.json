@@ -1,0 +1,1494 @@
+[
+  {
+    "url": "https://carrd.com/docs",
+    "finalUrl": "https://carrd.com/docs",
+    "title": "Documentation - Carrd",
+    "file": "docs.md",
+    "characters": 521,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/general/changelog",
+    "finalUrl": "https://carrd.com/docs/general/changelog",
+    "title": "Changelog - General - Documentation - Carrd",
+    "file": "docs__general__changelog.md",
+    "characters": 775,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/general",
+    "finalUrl": "https://carrd.com/docs/general",
+    "title": "General - Documentation - Carrd",
+    "file": "docs__general.md",
+    "characters": 383,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites",
+    "finalUrl": "https://carrd.com/docs/sites",
+    "title": "Sites - Documentation - Carrd",
+    "file": "docs__sites.md",
+    "characters": 1936,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building",
+    "finalUrl": "https://carrd.com/docs/building",
+    "title": "Building - Documentation - Carrd",
+    "file": "docs__building.md",
+    "characters": 1349,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms",
+    "finalUrl": "https://carrd.com/docs/forms",
+    "title": "Forms - Documentation - Carrd",
+    "file": "docs__forms.md",
+    "characters": 497,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account",
+    "finalUrl": "https://carrd.com/docs/account",
+    "title": "Account - Documentation - Carrd",
+    "file": "docs__account.md",
+    "characters": 837,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/pro",
+    "finalUrl": "https://carrd.com/docs/pro",
+    "title": "Pro - Documentation - Carrd",
+    "file": "docs__pro.md",
+    "characters": 557,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com",
+    "finalUrl": "https://carrd.com/",
+    "title": "Carrd - Simple, free, fully responsive one-page sites for pretty much anything",
+    "file": "home.md",
+    "characters": 1657,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/login",
+    "finalUrl": "https://carrd.com/login",
+    "title": "Log In - Carrd",
+    "file": "login.md",
+    "characters": 204,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/signup",
+    "finalUrl": "https://carrd.com/signup",
+    "title": "Sign Up - Carrd",
+    "file": "signup.md",
+    "characters": 328,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/pro",
+    "finalUrl": "https://carrd.com/pro",
+    "title": "Go Pro! - Carrd",
+    "file": "pro.md",
+    "characters": 3087,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/contact",
+    "finalUrl": "https://carrd.com/contact",
+    "title": "Contact - Carrd",
+    "file": "contact.md",
+    "characters": 656,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/terms",
+    "finalUrl": "https://carrd.com/docs/general/terms",
+    "title": "Terms of Use - General - Documentation - Carrd",
+    "file": "terms.md",
+    "characters": 53726,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/privacy",
+    "finalUrl": "https://carrd.com/docs/general/privacy",
+    "title": "Privacy Policy - General - Documentation - Carrd",
+    "file": "privacy.md",
+    "characters": 16869,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/templates/e55dd62f22951b41",
+    "finalUrl": "https://carrd.com/build/demo/e55dd62f22951b41",
+    "title": "Carrd Template #326 - Templates - Carrd",
+    "file": "templates__e55dd62f22951b41.md",
+    "characters": 19,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/changelog/2026102601.jpg",
+    "finalUrl": "https://carrd.com/assets/docs/images/changelog/2026102601.jpg",
+    "title": "2026102601.jpg (1280×1024)",
+    "file": "assets__docs__images__changelog__2026102601.jpg.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/templates/0d1b69cc9f64d953",
+    "finalUrl": "https://carrd.com/build/demo/0d1b69cc9f64d953",
+    "title": "Carrd Template #325 - Templates - Carrd",
+    "file": "templates__0d1b69cc9f64d953.md",
+    "characters": 19,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/changelog/2026102401.jpg",
+    "finalUrl": "https://carrd.com/assets/docs/images/changelog/2026102401.jpg",
+    "title": "2026102401.jpg (1440×5395)",
+    "file": "assets__docs__images__changelog__2026102401.jpg.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/changelog/2026102201.jpg",
+    "finalUrl": "https://carrd.com/assets/docs/images/changelog/2026102201.jpg",
+    "title": "2026102201.jpg (1576×1192)",
+    "file": "assets__docs__images__changelog__2026102201.jpg.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/changelog/2026100501.png",
+    "finalUrl": "https://carrd.com/assets/docs/images/changelog/2026100501.png",
+    "title": "2026100501.png (1687×1670)",
+    "file": "assets__docs__images__changelog__2026100501.png.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/using-carrd-analytics",
+    "finalUrl": "https://carrd.com/docs/sites/using-carrd-analytics",
+    "title": "Using Carrd Analytics - Sites - Documentation - Carrd",
+    "file": "docs__sites__using-carrd-analytics.md",
+    "characters": 2838,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/changelog/2026100201.png",
+    "finalUrl": "https://carrd.com/assets/docs/images/changelog/2026100201.png",
+    "title": "2026100201.png (1312×1426)",
+    "file": "assets__docs__images__changelog__2026100201.png.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/changelog/2026092801.jpg",
+    "finalUrl": "https://carrd.com/assets/docs/images/changelog/2026092801.jpg",
+    "title": "2026092801.jpg (1576×1192)",
+    "file": "assets__docs__images__changelog__2026092801.jpg.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/templates/790b77f08f69ab7a",
+    "finalUrl": "https://carrd.com/build/demo/790b77f08f69ab7a",
+    "title": "W-0027 - Templates - Carrd",
+    "file": "templates__790b77f08f69ab7a.md",
+    "characters": 6,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/changelog/2026091601.jpg",
+    "finalUrl": "https://carrd.com/assets/docs/images/changelog/2026091601.jpg",
+    "title": "2026091601.jpg (1280×840)",
+    "file": "assets__docs__images__changelog__2026091601.jpg.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/docs/general/about",
+    "finalUrl": "https://carrd.com/docs/general/about",
+    "title": "About Carrd - General - Documentation - Carrd",
+    "file": "docs__general__about.md",
+    "characters": 601,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/general/content-policy",
+    "finalUrl": "https://carrd.com/docs/general/content-policy",
+    "title": "Content Policy - General - Documentation - Carrd",
+    "file": "docs__general__content-policy.md",
+    "characters": 3093,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/general/terms",
+    "finalUrl": "https://carrd.com/docs/general/terms",
+    "title": "Terms of Use - General - Documentation - Carrd",
+    "file": "docs__general__terms.md",
+    "characters": 53726,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/general/privacy",
+    "finalUrl": "https://carrd.com/docs/general/privacy",
+    "title": "Privacy Policy - General - Documentation - Carrd",
+    "file": "docs__general__privacy.md",
+    "characters": 16869,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/general/brand-assets",
+    "finalUrl": "https://carrd.com/docs/general/brand-assets",
+    "title": "Brand Assets - General - Documentation - Carrd",
+    "file": "docs__general__brand-assets.md",
+    "characters": 375,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/using-a-custom-domain",
+    "finalUrl": "https://carrd.com/docs/sites/using-a-custom-domain",
+    "title": "Using a Custom Domain - Sites - Documentation - Carrd",
+    "file": "docs__sites__using-a-custom-domain.md",
+    "characters": 1890,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/using-a-custom-subdomain",
+    "finalUrl": "https://carrd.com/docs/sites/using-a-custom-subdomain",
+    "title": "Using a Custom Subdomain - Sites - Documentation - Carrd",
+    "file": "docs__sites__using-a-custom-subdomain.md",
+    "characters": 1547,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/setting-up-ssl",
+    "finalUrl": "https://carrd.com/docs/sites/setting-up-ssl",
+    "title": "Setting up SSL - Sites - Documentation - Carrd",
+    "file": "docs__sites__setting-up-ssl.md",
+    "characters": 560,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/changing-a-title-and-description",
+    "finalUrl": "https://carrd.com/docs/sites/changing-a-title-and-description",
+    "title": "Changing a Title or Description - Sites - Documentation - Carrd",
+    "file": "docs__sites__changing-a-title-and-description.md",
+    "characters": 492,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/setting-a-language",
+    "finalUrl": "https://carrd.com/docs/sites/setting-a-language",
+    "title": "Setting a Language - Sites - Documentation - Carrd",
+    "file": "docs__sites__setting-a-language.md",
+    "characters": 831,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/setting-a-timezone",
+    "finalUrl": "https://carrd.com/docs/sites/setting-a-timezone",
+    "title": "Setting a Timezone - Sites - Documentation - Carrd",
+    "file": "docs__sites__setting-a-timezone.md",
+    "characters": 538,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/adding-a-site-icon",
+    "finalUrl": "https://carrd.com/docs/sites/adding-a-site-icon",
+    "title": "Adding a Site Icon - Sites - Documentation - Carrd",
+    "file": "docs__sites__adding-a-site-icon.md",
+    "characters": 555,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/adding-a-share-image",
+    "finalUrl": "https://carrd.com/docs/sites/adding-a-share-image",
+    "title": "Adding a Share Image - Sites - Documentation - Carrd",
+    "file": "docs__sites__adding-a-share-image.md",
+    "characters": 729,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/setting-up-meta-tags",
+    "finalUrl": "https://carrd.com/docs/sites/setting-up-meta-tags",
+    "title": "Adding Meta Tags - Sites - Documentation - Carrd",
+    "file": "docs__sites__setting-up-meta-tags.md",
+    "characters": 920,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/generating-a-qr-code",
+    "finalUrl": "https://carrd.com/docs/sites/generating-a-qr-code",
+    "title": "Generating a QR Code - Sites - Documentation - Carrd",
+    "file": "docs__sites__generating-a-qr-code.md",
+    "characters": 716,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/working-with-custom-templates",
+    "finalUrl": "https://carrd.com/docs/sites/working-with-custom-templates",
+    "title": "Working With Custom Templates - Sites - Documentation - Carrd",
+    "file": "docs__sites__working-with-custom-templates.md",
+    "characters": 697,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/setting-up-redirects",
+    "finalUrl": "https://carrd.com/docs/sites/setting-up-redirects",
+    "title": "Setting up Redirects - Sites - Documentation - Carrd",
+    "file": "docs__sites__setting-up-redirects.md",
+    "characters": 1666,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/customizing-site-files",
+    "finalUrl": "https://carrd.com/docs/sites/customizing-site-files",
+    "title": "Customizing Site Files - Sites - Documentation - Carrd",
+    "file": "docs__sites__customizing-site-files.md",
+    "characters": 3079,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/adding-password-protection",
+    "finalUrl": "https://carrd.com/docs/sites/adding-password-protection",
+    "title": "Adding Password Protection - Sites - Documentation - Carrd",
+    "file": "docs__sites__adding-password-protection.md",
+    "characters": 820,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/serving-fonts-locally",
+    "finalUrl": "https://carrd.com/docs/sites/serving-fonts-locally",
+    "title": "Serving Fonts Locally - Sites - Documentation - Carrd",
+    "file": "docs__sites__serving-fonts-locally.md",
+    "characters": 677,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/changing-update-frequency",
+    "finalUrl": "https://carrd.com/docs/sites/changing-update-frequency",
+    "title": "Changing Update Frequency - Sites - Documentation - Carrd",
+    "file": "docs__sites__changing-update-frequency.md",
+    "characters": 860,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/cloning",
+    "finalUrl": "https://carrd.com/docs/sites/cloning",
+    "title": "Cloning a Site - Sites - Documentation - Carrd",
+    "file": "docs__sites__cloning.md",
+    "characters": 692,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/sharing",
+    "finalUrl": "https://carrd.com/docs/sites/sharing",
+    "title": "Sharing Sites - Sites - Documentation - Carrd",
+    "file": "docs__sites__sharing.md",
+    "characters": 620,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/transferring",
+    "finalUrl": "https://carrd.com/docs/sites/transferring",
+    "title": "Transferring a Site - Sites - Documentation - Carrd",
+    "file": "docs__sites__transferring.md",
+    "characters": 1069,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/downloading",
+    "finalUrl": "https://carrd.com/docs/sites/downloading",
+    "title": "Downloading a Site - Sites - Documentation - Carrd",
+    "file": "docs__sites__downloading.md",
+    "characters": 918,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/setting-up-a-sitemap",
+    "finalUrl": "https://carrd.com/docs/sites/setting-up-a-sitemap",
+    "title": "Setting up a Sitemap - Sites - Documentation - Carrd",
+    "file": "docs__sites__setting-up-a-sitemap.md",
+    "characters": 478,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/setting-up-site-analytics",
+    "finalUrl": "https://carrd.com/docs/sites/setting-up-site-analytics",
+    "title": "Setting up Site Analytics - Sites - Documentation - Carrd",
+    "file": "docs__sites__setting-up-site-analytics.md",
+    "characters": 1127,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/setting-up-marketing-trackers",
+    "finalUrl": "https://carrd.com/docs/sites/setting-up-marketing-trackers",
+    "title": "Setting up Marketing Trackers - Sites - Documentation - Carrd",
+    "file": "docs__sites__setting-up-marketing-trackers.md",
+    "characters": 899,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/using-utm-parameters",
+    "finalUrl": "https://carrd.com/docs/sites/using-utm-parameters",
+    "title": "Using UTM Parameters - Sites - Documentation - Carrd",
+    "file": "docs__sites__using-utm-parameters.md",
+    "characters": 3904,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/working-with-folders",
+    "finalUrl": "https://carrd.com/docs/sites/working-with-folders",
+    "title": "Working With Folders - Sites - Documentation - Carrd",
+    "file": "docs__sites__working-with-folders.md",
+    "characters": 1806,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/archiving-a-site",
+    "finalUrl": "https://carrd.com/docs/sites/archiving-a-site",
+    "title": "Archiving a Site - Sites - Documentation - Carrd",
+    "file": "docs__sites__archiving-a-site.md",
+    "characters": 1665,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/deleting-a-site",
+    "finalUrl": "https://carrd.com/docs/sites/deleting-a-site",
+    "title": "Deleting a Site - Sites - Documentation - Carrd",
+    "file": "docs__sites__deleting-a-site.md",
+    "characters": 2015,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/troubleshooting",
+    "finalUrl": "https://carrd.com/docs/sites/troubleshooting",
+    "title": "Troubleshooting - Sites - Documentation - Carrd",
+    "file": "docs__sites__troubleshooting.md",
+    "characters": 6003,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/overview",
+    "finalUrl": "https://carrd.com/docs/building/overview",
+    "title": "Overview - Building - Documentation - Carrd",
+    "file": "docs__building__overview.md",
+    "characters": 2472,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/basics",
+    "finalUrl": "https://carrd.com/docs/building/basics",
+    "title": "Basics - Building - Documentation - Carrd",
+    "file": "docs__building__basics.md",
+    "characters": 1498,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/keyboard-shortcuts",
+    "finalUrl": "https://carrd.com/docs/building/keyboard-shortcuts",
+    "title": "Keyboard Shortcuts - Building - Documentation - Carrd",
+    "file": "docs__building__keyboard-shortcuts.md",
+    "characters": 1379,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/url-types",
+    "finalUrl": "https://carrd.com/docs/building/url-types",
+    "title": "URL Types - Building - Documentation - Carrd",
+    "file": "docs__building__url-types.md",
+    "characters": 2922,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/background-element",
+    "finalUrl": "https://carrd.com/docs/building/background-element",
+    "title": "Background Element - Building - Documentation - Carrd",
+    "file": "docs__building__background-element.md",
+    "characters": 671,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/page-element",
+    "finalUrl": "https://carrd.com/docs/building/page-element",
+    "title": "Page Element - Building - Documentation - Carrd",
+    "file": "docs__building__page-element.md",
+    "characters": 565,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/organizing-elements-into-columns",
+    "finalUrl": "https://carrd.com/docs/building/organizing-elements-into-columns",
+    "title": "Organizing Elements into Columns - Building - Documentation - Carrd",
+    "file": "docs__building__organizing-elements-into-columns.md",
+    "characters": 782,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/using-sections",
+    "finalUrl": "https://carrd.com/docs/building/using-sections",
+    "title": "Using Sections - Building - Documentation - Carrd",
+    "file": "docs__building__using-sections.md",
+    "characters": 706,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/adding-videos",
+    "finalUrl": "https://carrd.com/docs/building/adding-videos",
+    "title": "Adding Videos - Building - Documentation - Carrd",
+    "file": "docs__building__adding-videos.md",
+    "characters": 1590,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/adding-audio",
+    "finalUrl": "https://carrd.com/docs/building/adding-audio",
+    "title": "Adding Audio - Building - Documentation - Carrd",
+    "file": "docs__building__adding-audio.md",
+    "characters": 844,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/using-scroll-points",
+    "finalUrl": "https://carrd.com/docs/building/using-scroll-points",
+    "title": "Using Scroll Points - Building - Documentation - Carrd",
+    "file": "docs__building__using-scroll-points.md",
+    "characters": 1294,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/adding-widgets",
+    "finalUrl": "https://carrd.com/docs/building/adding-widgets",
+    "title": "Adding Widgets - Building - Documentation - Carrd",
+    "file": "docs__building__adding-widgets.md",
+    "characters": 202,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/embedding-custom-code",
+    "finalUrl": "https://carrd.com/docs/building/embedding-custom-code",
+    "title": "Embedding Custom Code - Building - Documentation - Carrd",
+    "file": "docs__building__embedding-custom-code.md",
+    "characters": 1648,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/embedding-iframes",
+    "finalUrl": "https://carrd.com/docs/building/embedding-iframes",
+    "title": "Embedding IFRAMEs - Building - Documentation - Carrd",
+    "file": "docs__building__embedding-iframes.md",
+    "characters": 1313,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/formatting-with-markdown",
+    "finalUrl": "https://carrd.com/docs/building/formatting-with-markdown",
+    "title": "Formatting with Markdown - Building - Documentation - Carrd",
+    "file": "docs__building__formatting-with-markdown.md",
+    "characters": 2068,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/optimizing-elements-for-mobile",
+    "finalUrl": "https://carrd.com/docs/building/optimizing-elements-for-mobile",
+    "title": "Optimizing Elements for Mobile - Building - Documentation - Carrd",
+    "file": "docs__building__optimizing-elements-for-mobile.md",
+    "characters": 1078,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/using-element-styles",
+    "finalUrl": "https://carrd.com/docs/building/using-element-styles",
+    "title": "Using Element Styles - Building - Documentation - Carrd",
+    "file": "docs__building__using-element-styles.md",
+    "characters": 2199,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/using-advanced-settings",
+    "finalUrl": "https://carrd.com/docs/building/using-advanced-settings",
+    "title": "Using Advanced Settings - Building - Documentation - Carrd",
+    "file": "docs__building__using-advanced-settings.md",
+    "characters": 1842,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/using-mobile-view",
+    "finalUrl": "https://carrd.com/docs/building/using-mobile-view",
+    "title": "Using Mobile View - Building - Documentation - Carrd",
+    "file": "docs__building__using-mobile-view.md",
+    "characters": 778,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/using-section-view",
+    "finalUrl": "https://carrd.com/docs/building/using-section-view",
+    "title": "Using Section View - Building - Documentation - Carrd",
+    "file": "docs__building__using-section-view.md",
+    "characters": 1071,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/using-variables",
+    "finalUrl": "https://carrd.com/docs/building/using-variables",
+    "title": "Using Variables - Building - Documentation - Carrd",
+    "file": "docs__building__using-variables.md",
+    "characters": 5070,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/troubleshooting",
+    "finalUrl": "https://carrd.com/docs/building/troubleshooting",
+    "title": "Troubleshooting - Building - Documentation - Carrd",
+    "file": "docs__building__troubleshooting.md",
+    "characters": 7544,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-contact-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-contact-form",
+    "title": "Setting up a Contact Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-contact-form.md",
+    "characters": 1514,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-signup-form",
+    "title": "Setting up a Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-signup-form.md",
+    "characters": 614,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-custom-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-custom-form",
+    "title": "Setting up a Custom Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-custom-form.md",
+    "characters": 968,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-payments",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-payments",
+    "title": "Setting up a Payment-Enabled Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-payments.md",
+    "characters": 1279,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/protecting-forms-from-spam-and-bots",
+    "finalUrl": "https://carrd.com/docs/forms/protecting-forms-from-spam-and-bots",
+    "title": "Protecting Forms from Spam and Bots - Forms - Documentation - Carrd",
+    "file": "docs__forms__protecting-forms-from-spam-and-bots.md",
+    "characters": 771,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/troubleshooting",
+    "finalUrl": "https://carrd.com/docs/forms/troubleshooting",
+    "title": "Troubleshooting - Forms - Documentation - Carrd",
+    "file": "docs__forms__troubleshooting.md",
+    "characters": 4226,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/updating-your-profile",
+    "finalUrl": "https://carrd.com/docs/account/updating-your-profile",
+    "title": "Updating Your Profile - Account - Documentation - Carrd",
+    "file": "docs__account__updating-your-profile.md",
+    "characters": 395,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/changing-your-password",
+    "finalUrl": "https://carrd.com/docs/account/changing-your-password",
+    "title": "Changing Your Password - Account - Documentation - Carrd",
+    "file": "docs__account__changing-your-password.md",
+    "characters": 371,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/saving-payment-methods",
+    "finalUrl": "https://carrd.com/docs/account/saving-payment-methods",
+    "title": "Saving Payment Methods - Account - Documentation - Carrd",
+    "file": "docs__account__saving-payment-methods.md",
+    "characters": 1174,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/enabling-two-factor-authentication",
+    "finalUrl": "https://carrd.com/docs/account/enabling-two-factor-authentication",
+    "title": "Enabling Two-Factor Authentication - Account - Documentation - Carrd",
+    "file": "docs__account__enabling-two-factor-authentication.md",
+    "characters": 1134,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/managing-your-library",
+    "finalUrl": "https://carrd.com/docs/account/managing-your-library",
+    "title": "Managing Your Library - Account - Documentation - Carrd",
+    "file": "docs__account__managing-your-library.md",
+    "characters": 713,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/referral-program",
+    "finalUrl": "https://carrd.com/docs/account/referral-program",
+    "title": "Referral Program - Account - Documentation - Carrd",
+    "file": "docs__account__referral-program.md",
+    "characters": 2602,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/maker-program",
+    "finalUrl": "https://carrd.com/docs/account/maker-program",
+    "title": "Maker Program - Account - Documentation - Carrd",
+    "file": "docs__account__maker-program.md",
+    "characters": 2695,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/requesting-a-payout",
+    "finalUrl": "https://carrd.com/docs/account/requesting-a-payout",
+    "title": "Requesting a Balance Payout - Account - Documentation - Carrd",
+    "file": "docs__account__requesting-a-payout.md",
+    "characters": 1501,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/understanding-site-slots",
+    "finalUrl": "https://carrd.com/docs/account/understanding-site-slots",
+    "title": "Understanding Site Slots - Account - Documentation - Carrd",
+    "file": "docs__account__understanding-site-slots.md",
+    "characters": 1338,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/deleting-your-account",
+    "finalUrl": "https://carrd.com/docs/account/deleting-your-account",
+    "title": "Deleting Your Account - Account - Documentation - Carrd",
+    "file": "docs__account__deleting-your-account.md",
+    "characters": 747,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/troubleshooting",
+    "finalUrl": "https://carrd.com/docs/account/troubleshooting",
+    "title": "Troubleshooting - Account - Documentation - Carrd",
+    "file": "docs__account__troubleshooting.md",
+    "characters": 2613,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/pro/plans",
+    "finalUrl": "https://carrd.com/docs/pro/plans",
+    "title": "Plans - Pro - Documentation - Carrd",
+    "file": "docs__pro__plans.md",
+    "characters": 7008,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/pro/features",
+    "finalUrl": "https://carrd.com/docs/pro/features",
+    "title": "Features - Pro - Documentation - Carrd",
+    "file": "docs__pro__features.md",
+    "characters": 3370,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/pro/trial",
+    "finalUrl": "https://carrd.com/docs/pro/trial",
+    "title": "Trial - Pro - Documentation - Carrd",
+    "file": "docs__pro__trial.md",
+    "characters": 1845,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/pro/upgrading",
+    "finalUrl": "https://carrd.com/docs/pro/upgrading",
+    "title": "Upgrading Your Plan - Pro - Documentation - Carrd",
+    "file": "docs__pro__upgrading.md",
+    "characters": 1347,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/pro/changing",
+    "finalUrl": "https://carrd.com/docs/pro/changing",
+    "title": "Changing Your Plan - Pro - Documentation - Carrd",
+    "file": "docs__pro__changing.md",
+    "characters": 1805,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/pro/auto-renewing",
+    "finalUrl": "https://carrd.com/docs/pro/auto-renewing",
+    "title": "Automatically Renewing Your Plan - Pro - Documentation - Carrd",
+    "file": "docs__pro__auto-renewing.md",
+    "characters": 1068,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/pro/printing-a-receipt",
+    "finalUrl": "https://carrd.com/docs/pro/printing-a-receipt",
+    "title": "Printing a Receipt - Pro - Documentation - Carrd",
+    "file": "docs__pro__printing-a-receipt.md",
+    "characters": 647,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/pro/gifting-a-pro-plan",
+    "finalUrl": "https://carrd.com/docs/pro/gifting-a-pro-plan",
+    "title": "Gifting a Pro Plan - Pro - Documentation - Carrd",
+    "file": "docs__pro__gifting-a-pro-plan.md",
+    "characters": 1384,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/pro/troubleshooting",
+    "finalUrl": "https://carrd.com/docs/pro/troubleshooting",
+    "title": "Troubleshooting - Pro - Documentation - Carrd",
+    "file": "docs__pro__troubleshooting.md",
+    "characters": 2436,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/dashboard",
+    "finalUrl": "https://carrd.com/login?r=L2Rhc2hib2FyZA%3D%3D",
+    "title": "Log In - Carrd",
+    "file": "dashboard.md",
+    "characters": 204,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/general/terms-dpa",
+    "finalUrl": "https://carrd.com/docs/general/terms-dpa",
+    "title": "Terms of Use: Data Processing Addendum - General - Documentation - Carrd",
+    "file": "docs__general__terms-dpa.md",
+    "characters": 14979,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/contact/copyright",
+    "finalUrl": "https://carrd.com/contact/copyright",
+    "title": "Report Copyright Issue - Contact - Carrd",
+    "file": "contact__copyright.md",
+    "characters": 1308,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/carrd-brand-assets.zip",
+    "status": "download-blocked",
+    "error": "Error: Browser Use cannot open https://carrd.com/assets/docs/images/brand/carrd-brand-assets.zip in tab 1. Browser reported: net::ERR_BLOCKED_BY_CLIENT",
+    "file": "assets__docs__images__brand__carrd-brand-assets.zip.md"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/svg/logo-color-light.svg",
+    "status": "asset-reference",
+    "error": "Error: TypeError: Cannot read properties of null (reading 'innerText')\n    at __playwrightEvaluate (<anonymous>:2686:95)\n    at <anonymous>:2687:14\n    at runUserScript (<anonymous>:2688:10)\n    at <anonymous>:2692:10\n    at <anonymous>:2693:3",
+    "file": "assets__docs__images__brand__svg__logo-color-light.svg.md"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/png/logo-color-light.png",
+    "finalUrl": "https://carrd.com/assets/docs/images/brand/png/logo-color-light.png",
+    "title": "logo-color-light.png (3175×1024)",
+    "file": "assets__docs__images__brand__png__logo-color-light.png.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/svg/logo-light.svg",
+    "status": "asset-reference",
+    "error": "Error: TypeError: Cannot read properties of null (reading 'innerText')\n    at __playwrightEvaluate (<anonymous>:2686:95)\n    at <anonymous>:2687:14\n    at runUserScript (<anonymous>:2688:10)\n    at <anonymous>:2692:10\n    at <anonymous>:2693:3",
+    "file": "assets__docs__images__brand__svg__logo-light.svg.md"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/png/logo-light.png",
+    "finalUrl": "https://carrd.com/assets/docs/images/brand/png/logo-light.png",
+    "title": "logo-light.png (3175×1024)",
+    "file": "assets__docs__images__brand__png__logo-light.png.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/svg/logo-color-dark.svg",
+    "status": "asset-reference",
+    "error": "Error: TypeError: Cannot read properties of null (reading 'innerText')\n    at __playwrightEvaluate (<anonymous>:2686:95)\n    at <anonymous>:2687:14\n    at runUserScript (<anonymous>:2688:10)\n    at <anonymous>:2692:10\n    at <anonymous>:2693:3",
+    "file": "assets__docs__images__brand__svg__logo-color-dark.svg.md"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/png/logo-color-dark.png",
+    "finalUrl": "https://carrd.com/assets/docs/images/brand/png/logo-color-dark.png",
+    "title": "logo-color-dark.png (3175×1024)",
+    "file": "assets__docs__images__brand__png__logo-color-dark.png.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/svg/logo-dark.svg",
+    "status": "asset-reference",
+    "error": "Error: TypeError: Cannot read properties of null (reading 'innerText')\n    at __playwrightEvaluate (<anonymous>:2686:95)\n    at <anonymous>:2687:14\n    at runUserScript (<anonymous>:2688:10)\n    at <anonymous>:2692:10\n    at <anonymous>:2693:3",
+    "file": "assets__docs__images__brand__svg__logo-dark.svg.md"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/png/logo-dark.png",
+    "finalUrl": "https://carrd.com/assets/docs/images/brand/png/logo-dark.png",
+    "title": "logo-dark.png (3175×1024)",
+    "file": "assets__docs__images__brand__png__logo-dark.png.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/svg/icon-color.svg",
+    "status": "asset-reference",
+    "error": "Error: TypeError: Cannot read properties of null (reading 'innerText')\n    at __playwrightEvaluate (<anonymous>:2686:95)\n    at <anonymous>:2687:14\n    at runUserScript (<anonymous>:2688:10)\n    at <anonymous>:2692:10\n    at <anonymous>:2693:3",
+    "file": "assets__docs__images__brand__svg__icon-color.svg.md"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/png/icon-color.png",
+    "finalUrl": "https://carrd.com/assets/docs/images/brand/png/icon-color.png",
+    "title": "icon-color.png (1024×1024)",
+    "file": "assets__docs__images__brand__png__icon-color.png.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/svg/icon-dark.svg",
+    "status": "asset-reference",
+    "error": "Error: TypeError: Cannot read properties of null (reading 'innerText')\n    at __playwrightEvaluate (<anonymous>:2686:95)\n    at <anonymous>:2687:14\n    at runUserScript (<anonymous>:2688:10)\n    at <anonymous>:2692:10\n    at <anonymous>:2693:3",
+    "file": "assets__docs__images__brand__svg__icon-dark.svg.md"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/png/icon-dark.png",
+    "finalUrl": "https://carrd.com/assets/docs/images/brand/png/icon-dark.png",
+    "title": "icon-dark.png (1024×1024)",
+    "file": "assets__docs__images__brand__png__icon-dark.png.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/svg/icon-light.svg",
+    "status": "asset-reference",
+    "error": "Error: TypeError: Cannot read properties of null (reading 'innerText')\n    at __playwrightEvaluate (<anonymous>:2686:95)\n    at <anonymous>:2687:14\n    at runUserScript (<anonymous>:2688:10)\n    at <anonymous>:2692:10\n    at <anonymous>:2693:3",
+    "file": "assets__docs__images__brand__svg__icon-light.svg.md"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/png/icon-light.png",
+    "finalUrl": "https://carrd.com/assets/docs/images/brand/png/icon-light.png",
+    "title": "icon-light.png (1024×1024)",
+    "file": "assets__docs__images__brand__png__icon-light.png.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/svg/symbol-light.svg",
+    "status": "asset-reference",
+    "error": "Error: TypeError: Cannot read properties of null (reading 'innerText')\n    at __playwrightEvaluate (<anonymous>:2686:95)\n    at <anonymous>:2687:14\n    at runUserScript (<anonymous>:2688:10)\n    at <anonymous>:2692:10\n    at <anonymous>:2693:3",
+    "file": "assets__docs__images__brand__svg__symbol-light.svg.md"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/png/symbol-light.png",
+    "finalUrl": "https://carrd.com/assets/docs/images/brand/png/symbol-light.png",
+    "title": "symbol-light.png (896×896)",
+    "file": "assets__docs__images__brand__png__symbol-light.png.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/svg/symbol-dark.svg",
+    "status": "asset-reference",
+    "error": "Error: TypeError: Cannot read properties of null (reading 'innerText')\n    at __playwrightEvaluate (<anonymous>:2686:95)\n    at <anonymous>:2687:14\n    at runUserScript (<anonymous>:2688:10)\n    at <anonymous>:2692:10\n    at <anonymous>:2693:3",
+    "file": "assets__docs__images__brand__svg__symbol-dark.svg.md"
+  },
+  {
+    "url": "https://carrd.com/assets/docs/images/brand/png/symbol-dark.png",
+    "finalUrl": "https://carrd.com/assets/docs/images/brand/png/symbol-dark.png",
+    "title": "symbol-dark.png (896×896)",
+    "file": "assets__docs__images__brand__png__symbol-dark.png.md",
+    "characters": 0,
+    "status": "asset-reference"
+  },
+  {
+    "url": "https://carrd.com/build",
+    "finalUrl": "https://carrd.com/build",
+    "title": "Choose a Starting Point - Carrd",
+    "file": "build.md",
+    "characters": 4136,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/sharing-a-custom-template",
+    "finalUrl": "https://carrd.com/docs/sites/sharing-a-custom-template",
+    "title": "Sharing a Custom Template - Sites - Documentation - Carrd",
+    "file": "docs__sites__sharing-a-custom-template.md",
+    "characters": 981,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/making-a-custom-template-public",
+    "finalUrl": "https://carrd.com/docs/sites/making-a-custom-template-public",
+    "title": "Making a Custom Template Public - Sites - Documentation - Carrd",
+    "file": "docs__sites__making-a-custom-template-public.md",
+    "characters": 1073,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/building-a-custom-template",
+    "finalUrl": "https://carrd.com/docs/sites/building-a-custom-template",
+    "title": "Building a Custom Template - Sites - Documentation - Carrd",
+    "file": "docs__sites__building-a-custom-template.md",
+    "characters": 424,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/sharing-access-to-a-site",
+    "finalUrl": "https://carrd.com/docs/sites/sharing-access-to-a-site",
+    "title": "Sharing Access to a Site - Sites - Documentation - Carrd",
+    "file": "docs__sites__sharing-access-to-a-site.md",
+    "characters": 2543,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/editing-a-shared-site",
+    "finalUrl": "https://carrd.com/docs/sites/editing-a-shared-site",
+    "title": "Editing a Shared Site - Sites - Documentation - Carrd",
+    "file": "docs__sites__editing-a-shared-site.md",
+    "characters": 513,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/using-a-shared-template",
+    "finalUrl": "https://carrd.com/docs/sites/using-a-shared-template",
+    "title": "Using a Shared Template - Sites - Documentation - Carrd",
+    "file": "docs__sites__using-a-shared-template.md",
+    "characters": 813,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/sites/canceling-shared-access",
+    "finalUrl": "https://carrd.com/docs/sites/canceling-shared-access",
+    "title": "Canceling Shared Access - Sites - Documentation - Carrd",
+    "file": "docs__sites__canceling-shared-access.md",
+    "characters": 1499,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/setting-a-background-color",
+    "finalUrl": "https://carrd.com/docs/building/setting-a-background-color",
+    "title": "Setting a Background Color - Building - Documentation - Carrd",
+    "file": "docs__building__setting-a-background-color.md",
+    "characters": 294,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/setting-a-background-gradient",
+    "finalUrl": "https://carrd.com/docs/building/setting-a-background-gradient",
+    "title": "Setting a Background Gradient - Building - Documentation - Carrd",
+    "file": "docs__building__setting-a-background-gradient.md",
+    "characters": 377,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/setting-a-background-image",
+    "finalUrl": "https://carrd.com/docs/building/setting-a-background-image",
+    "title": "Setting a Background Image - Building - Documentation - Carrd",
+    "file": "docs__building__setting-a-background-image.md",
+    "characters": 651,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/setting-a-background-video",
+    "finalUrl": "https://carrd.com/docs/building/setting-a-background-video",
+    "title": "Setting a Background Video - Building - Documentation - Carrd",
+    "file": "docs__building__setting-a-background-video.md",
+    "characters": 561,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/setting-a-background-slideshow",
+    "finalUrl": "https://carrd.com/docs/building/setting-a-background-slideshow",
+    "title": "Setting a Background Slideshow - Building - Documentation - Carrd",
+    "file": "docs__building__setting-a-background-slideshow.md",
+    "characters": 655,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/styling-the-page-element",
+    "finalUrl": "https://carrd.com/docs/building/styling-the-page-element",
+    "title": "Styling the Page Element - Building - Documentation - Carrd",
+    "file": "docs__building__styling-the-page-element.md",
+    "characters": 1312,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/using-background-friendly-mode",
+    "finalUrl": "https://carrd.com/docs/building/using-background-friendly-mode",
+    "title": "Using Background Friendly Mode - Building - Documentation - Carrd",
+    "file": "docs__building__using-background-friendly-mode.md",
+    "characters": 969,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/using-background-overlap",
+    "finalUrl": "https://carrd.com/docs/building/using-background-overlap",
+    "title": "Using Background Overlap - Building - Documentation - Carrd",
+    "file": "docs__building__using-background-overlap.md",
+    "characters": 990,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/setting-up-a-section",
+    "finalUrl": "https://carrd.com/docs/building/setting-up-a-section",
+    "title": "Creating a Section - Building - Documentation - Carrd",
+    "file": "docs__building__setting-up-a-section.md",
+    "characters": 2213,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/adding-a-header",
+    "finalUrl": "https://carrd.com/docs/building/adding-a-header",
+    "title": "Adding a Header - Building - Documentation - Carrd",
+    "file": "docs__building__adding-a-header.md",
+    "characters": 801,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/adding-a-footer",
+    "finalUrl": "https://carrd.com/docs/building/adding-a-footer",
+    "title": "Adding a Footer - Building - Documentation - Carrd",
+    "file": "docs__building__adding-a-footer.md",
+    "characters": 812,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/adding-a-stripe-checkout-button",
+    "finalUrl": "https://carrd.com/docs/building/adding-a-stripe-checkout-button",
+    "title": "Adding a Stripe Checkout Button - Building - Documentation - Carrd",
+    "file": "docs__building__adding-a-stripe-checkout-button.md",
+    "characters": 845,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/adding-a-gumroad-buy-button",
+    "finalUrl": "https://carrd.com/docs/building/adding-a-gumroad-buy-button",
+    "title": "Adding a Gumroad Buy Button - Building - Documentation - Carrd",
+    "file": "docs__building__adding-a-gumroad-buy-button.md",
+    "characters": 638,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/adding-a-facebook-like-button",
+    "finalUrl": "https://carrd.com/docs/building/adding-a-facebook-like-button",
+    "title": "Adding a Facebook Like Button - Building - Documentation - Carrd",
+    "file": "docs__building__adding-a-facebook-like-button.md",
+    "characters": 510,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/adding-a-paypal-button",
+    "finalUrl": "https://carrd.com/docs/building/adding-a-paypal-button",
+    "title": "Adding a PayPal Button - Building - Documentation - Carrd",
+    "file": "docs__building__adding-a-paypal-button.md",
+    "characters": 854,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/building/adding-a-typeform",
+    "finalUrl": "https://carrd.com/docs/building/adding-a-typeform",
+    "title": "Adding a Typeform - Building - Documentation - Carrd",
+    "file": "docs__building__adding-a-typeform.md",
+    "characters": 755,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-an-activecampaign-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-an-activecampaign-signup-form",
+    "title": "Setting up an ActiveCampaign Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-an-activecampaign-signup-form.md",
+    "characters": 1814,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-beehiiv-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-beehiiv-signup-form",
+    "title": "Setting up a beehiiv Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-beehiiv-signup-form.md",
+    "characters": 1396,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-brevo-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-brevo-signup-form",
+    "title": "Setting up a Brevo Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-brevo-signup-form.md",
+    "characters": 1347,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-buttondown-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-buttondown-signup-form",
+    "title": "Setting up a Buttondown Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-buttondown-signup-form.md",
+    "characters": 982,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-an-emailoctopus-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-an-emailoctopus-signup-form",
+    "title": "Setting up an EmailOctopus Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-an-emailoctopus-signup-form.md",
+    "characters": 1522,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-getresponse-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-getresponse-signup-form",
+    "title": "Setting up a GetResponse Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-getresponse-signup-form.md",
+    "characters": 1171,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-ghost-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-ghost-signup-form",
+    "title": "Setting up a Ghost Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-ghost-signup-form.md",
+    "characters": 1169,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-hubspot-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-hubspot-signup-form",
+    "title": "Setting up a HubSpot Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-hubspot-signup-form.md",
+    "characters": 1131,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-kit-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-kit-signup-form",
+    "title": "Setting up a Kit Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-kit-signup-form.md",
+    "characters": 1353,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-klaviyo-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-klaviyo-signup-form",
+    "title": "Setting up a Klaviyo Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-klaviyo-signup-form.md",
+    "characters": 1332,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-loops-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-loops-signup-form",
+    "title": "Setting up a Loops Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-loops-signup-form.md",
+    "characters": 1149,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-mailchimp-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-mailchimp-signup-form",
+    "title": "Setting up a Mailchimp Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-mailchimp-signup-form.md",
+    "characters": 1381,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-mailerlite-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-mailerlite-signup-form",
+    "title": "Setting up a MailerLite Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-mailerlite-signup-form.md",
+    "characters": 1147,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-mailjet-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-mailjet-signup-form",
+    "title": "Setting up a Mailjet Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-mailjet-signup-form.md",
+    "characters": 1426,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-an-omnisend-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-an-omnisend-signup-form",
+    "title": "Setting up an Omnisend Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-an-omnisend-signup-form.md",
+    "characters": 1095,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-resend-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-resend-signup-form",
+    "title": "Setting up a Resend Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-resend-signup-form.md",
+    "characters": 1377,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-sender-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-sender-signup-form",
+    "title": "Setting up a Sender Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-sender-signup-form.md",
+    "characters": 1198,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-sendfox-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-sendfox-signup-form",
+    "title": "Setting up a SendFox Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-sendfox-signup-form.md",
+    "characters": 716,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-sendgrid-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-sendgrid-signup-form",
+    "title": "Setting up a SendGrid Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-sendgrid-signup-form.md",
+    "characters": 1264,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-sendy-signup-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-sendy-signup-form",
+    "title": "Setting up a Sendy Signup Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-sendy-signup-form.md",
+    "characters": 1187,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-custom-airtable-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-custom-airtable-form",
+    "title": "Setting up a Custom Airtable Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-custom-airtable-form.md",
+    "characters": 2403,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-custom-email-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-custom-email-form",
+    "title": "Setting up a Custom Email Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-custom-email-form.md",
+    "characters": 3115,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-custom-make-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-custom-make-form",
+    "title": "Setting up a Custom Make Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-custom-make-form.md",
+    "characters": 2216,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-custom-n8n-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-custom-n8n-form",
+    "title": "Setting up a Custom n8n Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-custom-n8n-form.md",
+    "characters": 2552,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-custom-url-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-custom-url-form",
+    "title": "Setting up a Custom URL Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-custom-url-form.md",
+    "characters": 2960,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-custom-zapier-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-custom-zapier-form",
+    "title": "Setting up a Custom Zapier Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-custom-zapier-form.md",
+    "characters": 2223,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/forms/setting-up-a-custom-code-form",
+    "finalUrl": "https://carrd.com/docs/forms/setting-up-a-custom-code-form",
+    "title": "Setting up a Custom Code Form - Forms - Documentation - Carrd",
+    "file": "docs__forms__setting-up-a-custom-code-form.md",
+    "characters": 2295,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/redeeming-a-code",
+    "finalUrl": "https://carrd.com/docs/account/redeeming-a-code",
+    "title": "Redeeming a Code - Account - Documentation - Carrd",
+    "file": "docs__account__redeeming-a-code.md",
+    "characters": 572,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/gifting-library-items",
+    "finalUrl": "https://carrd.com/docs/account/gifting-library-items",
+    "title": "Gifting Items - Account - Documentation - Carrd",
+    "file": "docs__account__gifting-library-items.md",
+    "characters": 1964,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/buying-library-items",
+    "finalUrl": "https://carrd.com/docs/account/buying-library-items",
+    "title": "Buying Items - Account - Documentation - Carrd",
+    "file": "docs__account__buying-library-items.md",
+    "characters": 1514,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/activating-library-items",
+    "finalUrl": "https://carrd.com/docs/account/activating-library-items",
+    "title": "Activating Items - Account - Documentation - Carrd",
+    "file": "docs__account__activating-library-items.md",
+    "characters": 933,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/docs/account/printing-a-receipt",
+    "finalUrl": "https://carrd.com/docs/account/printing-a-receipt",
+    "title": "Printing a Receipt - Account - Documentation - Carrd",
+    "file": "docs__account__printing-a-receipt.md",
+    "characters": 648,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/dashboard/account/plan/change/pro-lite",
+    "finalUrl": "https://carrd.com/login?r=L2Rhc2hib2FyZC9hY2NvdW50L3BsYW4vY2hhbmdlL3Byby1saXRl",
+    "title": "Log In - Carrd",
+    "file": "dashboard__account__plan__change__pro-lite.md",
+    "characters": 204,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/dashboard/account/plan/change/pro-standard",
+    "finalUrl": "https://carrd.com/login?r=L2Rhc2hib2FyZC9hY2NvdW50L3BsYW4vY2hhbmdlL3Byby1zdGFuZGFyZA%3D%3D",
+    "title": "Log In - Carrd",
+    "file": "dashboard__account__plan__change__pro-standard.md",
+    "characters": 204,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/dashboard/account/plan/change/pro-plus",
+    "finalUrl": "https://carrd.com/login?r=L2Rhc2hib2FyZC9hY2NvdW50L3BsYW4vY2hhbmdlL3Byby1wbHVz",
+    "title": "Log In - Carrd",
+    "file": "dashboard__account__plan__change__pro-plus.md",
+    "characters": 204,
+    "status": "saved"
+  },
+  {
+    "url": "https://carrd.com/dashboard/account/plan/trial",
+    "finalUrl": "https://carrd.com/login?r=L2Rhc2hib2FyZC9hY2NvdW50L3BsYW4vdHJpYWw%3D",
+    "title": "Log In - Carrd",
+    "file": "dashboard__account__plan__trial.md",
+    "characters": 204,
+    "status": "saved"
+  }
+]
